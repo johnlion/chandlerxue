@@ -2,7 +2,7 @@ package web
 
 import (
 	"net/http"
-	"github.com/chandlerxue/proxy"
+	"github.com/johnlion/chandlerxue/proxy"
 	"io"
 )
 
